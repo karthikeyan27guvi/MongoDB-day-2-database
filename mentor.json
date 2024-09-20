@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Johnny",
+    "email": "Johnny@example.com",
+    "specialization": "Full Stack Development",
+    "date_of_joining": "2022-01-15T00:00:00Z",
+    "mentees_count": 20
+  },
+  {
+    "name": "Janister",
+    "email": "Janister@example.com",
+    "specialization": "Data Science",
+    "date_of_joining": "2021-06-22T00:00:00Z",
+    "mentees_count": 12
+  },
+  {
+    "name": "Alex",
+    "email": "Ale@example.com",
+    "specialization": "Machine Learning",
+    "date_of_joining": "2020-09-05T00:00:00Z",
+    "mentees_count": 18
+  },
+  {
+    "name": "Bobby",
+    "email": "Bobby@example.com",
+    "specialization": "Cybersecurity",
+    "date_of_joining": "2019-11-10T00:00:00Z",
+    "mentees_count": 8
+  },
+  {
+    "name": "Caroline",
+    "email": "Caroline@example.com",
+    "specialization": "Web Development",
+    "date_of_joining": "2023-02-17T00:00:00Z",
+    "mentees_count": 5
+  },
+  {
+    "name": "Danny",
+    "email": "Danny@example.com",
+    "specialization": "Cloud Computing",
+    "date_of_joining": "2022-03-23T00:00:00Z",
+    "mentees_count": 22
+  },
+  {
+    "name": "Evagalin",
+    "email": "Evagalin@example.com",
+    "specialization": "Mobile App Development",
+    "date_of_joining": "2021-07-14T00:00:00Z",
+    "mentees_count": 15
+  },
+  {
+    "name": "Franklin",
+    "email": "Franklin@example.com",
+    "specialization": "Database Management",
+    "date_of_joining": "2020-10-30T00:00:00Z",
+    "mentees_count": 10
+  },
+  {
+    "name": "Gracelin",
+    "email": "racelin.lee@example.com",
+    "specialization": "AI & Robotics",
+    "date_of_joining": "2018-05-19T00:00:00Z",
+    "mentees_count": 25
+  },
+  {
+    "name": "Herold",
+    "email": "erold.young@example.com",
+    "specialization": "Software Engineering",
+    "date_of_joining": "2019-12-11T00:00:00Z",
+    "mentees_count": 14
+  }
+  ,
+  {
+    "name": "sathish",
+    "email": "sathish.young@example.com",
+    "specialization": "Software Architect",
+    "date_of_joining": "2019-11-21T00:00:00Z",
+    "mentees_count": 19
+  }
+]

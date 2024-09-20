@@ -1,0 +1,57 @@
+[
+  {
+    "company_name": "Tech Innovators",
+    "date": "2020-10-16T00:00:00Z",
+    "appeared_students": ["Alice Smith", "Bob Johnson", "Carol Davis"]
+  },
+  {
+    "company_name": "FutureTech",
+    "date": "2020-10-18T00:00:00Z",
+    "appeared_students": ["David Wilson", "Eva Martin", "Frank Thomas"]
+  },
+  {
+    "company_name": "NextGen Solutions",
+    "date": "2020-10-20T00:00:00Z",
+    "appeared_students": ["Grace Lee", "Henry Young", "Ivy King"]
+  },
+  {
+    "company_name": "InnoWave",
+    "date": "2020-10-22T00:00:00Z",
+    "appeared_students": ["Jack Wright", "Karen Green", "Alice Smith"]
+  },
+  {
+    "company_name": "TechPioneers",
+    "date": "2020-10-24T00:00:00Z",
+    "appeared_students": ["Bob Johnson", "Carol Davis", "David Wilson"]
+  },
+  {
+    "company_name": "VisionaryTech",
+    "date": "2020-10-26T00:00:00Z",
+    "appeared_students": ["Eva Martin", "Frank Thomas", "Grace Lee"]
+  },
+  {
+    "company_name": "InnovateHub",
+    "date": "2020-10-28T00:00:00Z",
+    "appeared_students": ["Henry Young", "Ivy King", "Jack Wright"]
+  },
+  {
+    "company_name": "TechDreamers",
+    "date": "2020-10-30T00:00:00Z",
+    "appeared_students": ["Karen Green", "Alice Smith", "Bob Johnson"]
+  },
+  {
+    "company_name": "Pioneer Solutions",
+    "date": "2020-11-01T00:00:00Z",
+    "appeared_students": ["Carol Davis", "David Wilson", "Eva Martin"]
+  },
+  {
+    "company_name": "Innovative Minds",
+    "date": "2020-11-03T00:00:00Z",
+    "appeared_students": ["Frank Thomas", "Grace Lee", "Henry Young"]
+  },
+  {
+    "company_name": "TechFuture",
+    "date": "2020-11-05T00:00:00Z",
+    "appeared_students": ["Ivy King", "Jack Wright", "Karen Green"]
+  }
+]

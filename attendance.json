@@ -1,0 +1,57 @@
+[
+  {
+    "user_email": "alice.smith@example.com",
+    "date": "2023-10-16T00:00:00Z",
+    "status": "absent"
+  },
+  {
+    "user_email": "bob.johnson@example.com",
+    "date": "2023-10-20T00:00:00Z",
+    "status": "absent"
+  },
+  {
+    "user_email": "carol.davis@example.com",
+    "date": "2023-10-17T00:00:00Z",
+    "status": "present"
+  },
+  {
+    "user_email": "david.wilson@example.com",
+    "date": "2023-10-30T00:00:00Z",
+    "status": "absent"
+  },
+  {
+    "user_email": "eva.martin@example.com",
+    "date": "2023-10-22T00:00:00Z",
+    "status": "present"
+  },
+  {
+    "user_email": "frank.thomas@example.com",
+    "date": "2023-10-25T00:00:00Z",
+    "status": "present"
+  },
+  {
+    "user_email": "grace.lee@example.com",
+    "date": "2023-10-18T00:00:00Z",
+    "status": "absent"
+  },
+  {
+    "user_email": "henry.young@example.com",
+    "date": "2023-10-28T00:00:00Z",
+    "status": "present"
+  },
+  {
+    "user_email": "ivy.king@example.com",
+    "date": "2023-10-23T00:00:00Z",
+    "status": "absent"
+  },
+  {
+    "user_email": "jack.wright@example.com",
+    "date": "2023-10-19T00:00:00Z",
+    "status": "present"
+  },
+  {
+    "user_email": "karen.green@example.com",
+    "date": "2023-10-24T00:00:00Z",
+    "status": "absent"
+  }
+]

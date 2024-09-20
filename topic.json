@@ -1,0 +1,57 @@
+[
+  {
+    "topic_id": "topic_id_1",
+    "title": "Introduction to MongoDB",
+    "date": "2023-10-01T00:00:00Z"
+  },
+  {
+    "topic_id": "topic_id_2",
+    "title": "Basic CRUD Operations",
+    "date": "2023-10-03T00:00:00Z"
+  },
+  {
+    "topic_id": "topic_id_3",
+    "title": "Data Modeling in MongoDB",
+    "date": "2023-10-07T00:00:00Z"
+  },
+  {
+    "topic_id": "topic_id_4",
+    "title": "Indexing and Aggregation",
+    "date": "2023-10-10T00:00:00Z"
+  },
+  {
+    "topic_id": "topic_id_5",
+    "title": "MongoDB Performance Tuning",
+    "date": "2023-08-12T00:00:00Z"  
+  },
+  {
+    "topic_id": "topic_id_6",
+    "title": "Advanced Queries",
+    "date": "2023-11-15T00:00:00Z"  
+  },
+  {
+    "topic_id": "topic_id_7",
+    "title": "Replication and Sharding",
+    "date": "2023-10-18T00:00:00Z"
+  },
+  {
+    "topic_id": "topic_id_8",
+    "title": "Data Security and Backup",
+    "date": "2023-10-20T00:00:00Z"
+  },
+  {
+    "topic_id": "topic_id_9",
+    "title": "MongoDB and Node.js Integration",
+    "date": "2023-10-22T00:00:00Z"
+  },
+  {
+    "topic_id": "topic_id_10",
+    "title": "Scaling MongoDB Applications",
+    "date": "2023-10-25T00:00:00Z"
+  },
+  {
+    "topic_id": "topic_id_11",
+    "title": "Real-time Data Processing",
+    "date": "2023-11-28T00:00:00Z"  
+  }
+]

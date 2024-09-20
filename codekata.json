@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Alice Smith",
+    "user_email": "alice.smith@example.com",
+    "problems_solved": 12
+  },
+  {
+    "name": "Bob Johnson",
+    "user_email": "bob.johnson@example.com",
+    "problems_solved": 8
+  },
+  {
+    "name": "Carol Davis",
+    "user_email": "carol.davis@example.com",
+    "problems_solved": 5
+  },
+  {
+    "name": "David Wilson",
+    "user_email": "david.wilson@example.com",
+    "problems_solved": 15
+  },
+  {
+    "name": "Eva Martin",
+    "user_email": "eva.martin@example.com",
+    "problems_solved": 6
+  },
+  {
+    "name": "Frank Thomas",
+    "user_email": "frank.thomas@example.com",
+    "problems_solved": 11
+  },
+  {
+    "name": "Grace Lee",
+    "user_email": "grace.lee@example.com",
+    "problems_solved": 3
+  },
+  {
+    "name": "Henry Young",
+    "user_email": "henry.young@example.com",
+    "problems_solved": 10
+  },
+  {
+    "name": "Ivy King",
+    "user_email": "ivy.king@example.com",
+    "problems_solved": 14
+  },
+  {
+    "name": "Jack Wright",
+    "user_email": "jack.wright@example.com",
+    "problems_solved": 7
+  },
+  {
+    "name": "Karen Green",
+    "user_email": "karen.green@example.com",
+    "problems_solved": 2
+  }
+]

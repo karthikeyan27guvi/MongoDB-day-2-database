@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Alice Smith",
+    "task_id": "task1_id",
+    "status": "Completed",
+    "date": "2020-10-01"
+  },
+  {
+    "name": "Alice Smith",
+    "task_id": "task2_id",
+    "status": "Completed",
+    "date": "2020-10-01"
+  },
+  {
+    "name": "Bob Johnson",
+    "task_id": "task3_id",
+    "status": "Completed",
+    "date": "2023-08-15"
+  },
+  {
+    "name": "Bob Johnson",
+    "task_id": "task4_id",
+    "status": "not Completed",
+    "date": "2023-08-15"
+  },
+  {
+    "name": "Carol Davis",
+    "task_id": "task5_id",
+    "status": "Completed",
+    "date": "2020-10-15"
+  },
+  {
+    "name": "David Wilson",
+    "task_id": "task6_id",
+    "status": "not Completed",
+    "date": "2020-10-18"
+  },
+  {
+    "name": "David Wilson",
+    "task_id": "task7_id",
+    "status": "not Completed",
+    "date": "2023-06-22"
+  },
+  {
+    "name": "David Wilson",
+    "task_id": "task8_id",
+    "status": "not Completed",
+    "date": "2023-06-22"
+  },
+  {
+    "name": "Eva Martin",
+    "task_id": "task9_id",
+    "status": "Completed",
+    "date": "2020-10-05"
+  },
+  {
+    "name": "Frank Thomas",
+    "task_id": "task10_id",
+    "status": "Completed",
+    "date": "2023-04-18"
+  },
+  {
+    "name": "Frank Thomas",
+    "task_id": "task11_id",
+    "status": "not Completed",
+    "date": "2020-10-19"
+  }
+]
